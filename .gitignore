@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json.bak
+test-results/
+playwright-report/
+blob-report/
+.playwright/
+playwright/.cache/
+.DS_Store
