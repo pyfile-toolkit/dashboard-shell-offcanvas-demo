@@ -1,5 +1,7 @@
 # Dashboard shell demo — responsive Offcanvas (Bootstrap 5.3)
 
+[![tests](https://github.com/pyfile-toolkit/dashboard-shell-offcanvas-demo/actions/workflows/test.yml/badge.svg)](https://github.com/pyfile-toolkit/dashboard-shell-offcanvas-demo/actions/workflows/test.yml)
+
 Минимальное публичное демо оболочки дашборда: одна разметка, которая на узком экране
 работает как Bootstrap Offcanvas, а от `768px` — как статичная колонка. Здесь нет
 бэкенда, роутер — хэш-роутер, содержимое страниц — заглушки. Всё, что есть, существует
